@@ -96,5 +96,5 @@ GOOS=linux GOARCH=amd64 VERSION=0.0.1 script/deb
 
 ## Future Work
 
-* Support input from standard in
+* Support input from standard in 
 * Support files which are truncated in place
